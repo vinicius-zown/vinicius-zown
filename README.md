@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **G4S**
 
-- 🌱 I’m currently learning **Flutter**
+- 📚 I’m currently learning **Flutter**
 
 - 📫 How to reach me **viniciusklopes@gmail.com**
 
